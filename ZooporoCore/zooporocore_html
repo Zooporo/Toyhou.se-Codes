@@ -1,0 +1,85 @@
+<!-- //
+Theme: ZooporoCore!
+Search to find colors and images to change with Ctrl-F, "Swap".
+More codes soon :] !-->
+<div class="container p-4">
+	<div class="row d-flex justify-content-center">
+		<!--item 1-->
+		<div class="col">
+			<!--Swap Image-->
+			<div class="background" style="background-image: url('https://cdn.discordapp.com/attachments/570762798737391616/1056124533599379507/the_girl_of_all_time.png?ex=6611061e&is=65fe911e&hm=c5a184f081b30e4872471f78bbf5e65f567a3159f16c8dee4b174c111705a627&'); height: 500px;">
+				<!--Palette. Add more colors if you like!-->
+				<div class="col-sm-1 mt-1 m-0 d-flex" style="z-index: 1000; float: right;">
+					<div class="schema-slant">
+						<!--Swap 1-->
+						<div class="schema mb-2 shadow rounded" style="background-color: #000BA4;">x</div>
+						<!--Swap 2-->
+						<div class="schema mb-2 shadow rounded" style="background-color: #00CB00;">x</div>
+						<!--Swap 3-->
+						<div class="schema mb-2 shadow rounded" style="background-color: #009BFF">x</div>
+						<!--Swap 4-->
+						<div class="schema mb-2 shadow rounded" style="background-color: #006FFF">x</div>
+						<!--Swap 5-->
+						<div class="schema mb-2 shadow rounded" style="background-color: #00C5FF">x</div>
+						<!--Swap 6-->
+						<div class="schema mb-2 shadow rounded" style="background-color: #FFF000">x</div>
+						<!--Swap 7-->
+						<div class="schema mb-2 shadow rounded" style="background-color: #FF006B">x</div>
+					</div>
+					<!--switch images? ill edit later :0-->
+				</div>
+			</div>
+			<!--item 2-->
+		</div>
+		<div class="col w-auto">
+			<div class="row mx-auto d-flex justify-content-between container pr-5">
+				<!--field 1-->
+				<div class="card mb-2 d-flex py-3 px-3 column align-middle biobox shadow">
+					<div class="card-body">
+						<div class="display-4 titlehead">Name</div>
+						<div class="card-body" style="overflow:hidden">
+							<p>Attribute</p>
+						</div>
+					</div>
+				</div>
+				<!--field 2-->
+				<div class="card mb-2 d-flex py-3 px-3 column align-middle biobox shadow">
+					<div class="card-body">
+						<div class="display-4 titlehead">Age</div>
+						<div class="card-body unslant">
+							<p>Lorem ipsum</p>
+						</div>
+					</div>
+				</div>
+				<!--field 3-->
+				<div class="card mb-2 d-flex py-3 px-3 column align-middle biobox shadow">
+					<div class="card-body">
+						<div class="display-4 titlehead">Gen</div>
+						<div class="card-body unslant">
+							<p>Lorem ipsum</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!--field 4-->
+			<div class="card mb-2 d-flex py-4 px-3 column align-middle biobox shadow">
+				<div class="card-body">
+					<div class="display-4 titlehead" style="margin-left: 3em;">Field</div>
+					<div class="card-body unslant">
+						<p>Lorem ipsum dolor sit amet</p>
+					</div>
+				</div>
+			</div>
+			<!--biography (don't worry, it scrolls!)-->
+			<div class="card mb-2 d-flex py-4 px-3 ml-3 column align-middle biobox shadow">
+				<div class="card-body">
+					<div class="display-4 titlehead" style="margin-left: 3em;">Bio</div>
+					<div class="card-body unslant" style="height: 70px; overflow: auto; scroll">
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="badge"> Code by Zooporo</div>
