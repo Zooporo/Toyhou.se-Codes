@@ -1,0 +1,64 @@
+<!-- //
+
+Theme: ZooInc Employee Badge! Employ your OCs and give them a silly little badge :)
+Search to find colors and images to change with Ctrl-F, "Swap".
+More codes soon :] !-->
+
+<div class="w-50 justify-content-center">
+    <div class="container-fluid d-flex row p-1 w-50 rounded shadow justify-content-center"
+        style="border: solid 1px #0000007a; border-radius: 20px;">
+        <!--white inner-->
+        <div class="container p-1 rounded" style="height: 25%;">
+            <!--badge hole-->
+            <div class="container justify-content-center">
+                <div class="rounded m-2 w-25 border-dark ;" id='Swap'
+                    style="border-radius: 10px; border: solid 1px rgba(0,0,0,0.73); box-shadow: inset black 5px 5px 7px; height: 20px; color: #00000000; background-color: #00000000;">
+                </div>
+            </div>
+            <!--top-->
+            <div class="container">
+                <div class="container col justify-content-between">
+                    <!-- logo-->
+                    <div id="Swap" class="w-25 row">
+                        <img
+                            src="https://cdn.discordapp.com/attachments/1161923445366464532/1239045890266632292/ZOOPORO_OFFICIAL_3.jpg?ex=66417ee8&is=66402d68&hm=68fb18743b11975646a9b363d11960c7fa15157cb05348e6c532b08b21172ee9&" />
+                    </div>
+                    <!-- company and sub -->
+                    <div class="w-75 row">
+                        <div class="display-3"> ZOO INC. </div>
+                        <div class="badge badge-primary m-0 p-0 px-2 d-flex align-items-center">Making the internet
+                            better!</div>
+                    </div>
+                </div>
+            </div>
+            <!--body-->
+            <div class="container flex col justify-content-between my-2 px-0">
+                <!--employee photo, square images only! i didnt feel like coding a crop :P-->
+                <div class="card">
+                    <div class="w-100 p-3">
+                        <img class="mb-2" id="Swap"
+                            src="https://cdn.discordapp.com/attachments/1083240270679789631/1083240777217482752/jaaaden_icon.png?ex=6640ea56&is=663f98d6&hm=54a6c52733f708324cdd95cf69978164c97d98ec8a24c7680d2b5c347ef948d0&" />
+                        <div class="card-body ">
+                            <h5 class="card-title"> Jaden Yuki | Male, 18 </h5>
+                        </div>
+                        <h6 class="card-subtitle mb-2 text-muted">✦ YuGiOh! Specialist ✦</h6>
+                        <p class="card-text">Jaden might not be the first OR the best YuGiOh! specialist in the
+                            building, but he got a job here somehow!</p>
+                    </div>
+                </div>
+                <!--barcode-->
+                <div class="ml-3 w-50 border border-dark" style="border-radius: 15px;
+				background-image: url('https://cdn.discordapp.com/attachments/1093600194576253118/1239093598654562334/bcode.png?ex=6641ab57&is=664059d7&hm=a06c1b52525ce96a785118a520d03021e0924f07c727e8db0191f48f6f4176d6&');
+				background-repeat: no-repeat;
+				background-size: 230% 160%;"></div>
+            </div>
+            <div class="w-100">
+                <div class="justify-content-center">
+                    <a href="https://toyhou.se/Zooporo">
+                        <div class="badge badge-pill"><i class="fa-solid fa-code"></i> Zooporo </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
